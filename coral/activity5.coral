@@ -1,0 +1,21 @@
+integer userAgeYears 
+integer userAgeDays
+integer userAgeMinute
+integer totalHeartbeats
+integer avgBeatsPerMinute 
+
+userAgeYears = Get next input
+userAgeDays = userAgeYears * 365
+userAgeDays = userAgeDays + (userAgeYears / 4)
+Put "You are " to output
+Put userAgeDays to output
+Put " days old.\n" to output
+userAgeMinute = userAgeDays * 24 * 60
+Put userAgeMinute to output
+Put " minute old.\n" to output
+avgBeatsPerMinute = 72
+totalHeartbeats = userAgeMinute * avgBeatsPerMinute
+Put "Your heart has beat " to output
+Put totalHeartbeats to output
+Put " times.\n" to output
+

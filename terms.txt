@@ -1,0 +1,13 @@
+Expression - is a combination of items, like variables, literals,
+operators, and parentheses, that evaluates to a value. 
+
+Literal - is a specific value in code, like 2. 
+
+Operator - is a symbol that performs a built-in calculation, like the operator + which performs
+addition. Common programming operators are shown below.
+
+Evaluate - a value, which replaces the expression.
+
+Precedence - the order of standard mathematics,
+
+Floating-point 
